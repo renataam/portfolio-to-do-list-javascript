@@ -60,5 +60,7 @@ input, select {
 }
 
 .todo-container header {
-    
+    text-align: center;
+    padding: 0 1rem 1rem;
+    border-bottom: 1px solid #ccc;
 }
